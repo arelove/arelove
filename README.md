@@ -3,18 +3,22 @@ Hi !👋 My name is Valeri Korobov
 
 Web develepor
 -------------
-
+<h3 align="left">💻  About me</h3>
 I'm a frontend developer with experience in React, TypeScript, and JavaScript. I am passionate about creating intuitive and efficient user interfaces. I've been doing programming for a few years now. At first I switched to this field from another career and started with HTML and CSS. But when I got acquainted with frontend development, especially React and TypeScript, I realized that this is exactly what I like! I really enjoy creating dynamic and responsive applications that make users' lives easier and more convenient. Each new project is an opportunity to experiment and learn something new, and I'm looking forward to seeing what the next one brings!
 
 
+<img width="12" />
+<div>
 <a href="https://www.github.com/arelove" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 <img width="12" />
 <a href="https://t.me/ar3love" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"   alt="telegram logo"  />
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+    alt="telegram logo"  />
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:multidigger7@gmail.com)
+</div>
 
 
 
