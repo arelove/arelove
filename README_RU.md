@@ -9,6 +9,7 @@ Web develepor
 Каждый новый проект — это возможность поэкспериментировать и узнать что-то новое, и я с нетерпением жду, что принесет следующий!
 <img width="12" />
 <div>
+<a href="https://github.com/arelove/freedom-launcher/stargazers"><img src="https://img.shields.io/github/stars/arelove/freedom-launcher" alt="Stars Badge"/></a>
 <a href="https://www.github.com/arelove" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 <img width="12" />
@@ -17,6 +18,8 @@ src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-b
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:multidigger7@gmail.com)
+
+
 </div>
 
 
