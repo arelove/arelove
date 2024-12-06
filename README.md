@@ -21,9 +21,7 @@ src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-b
 </div>
 
 
-
-### Skills
-
+<h3 align="left">🛠 Skills</h3>
 
 <p align="left">
     
@@ -97,11 +95,11 @@ src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-b
 </p>
 
 
-### Socials
+<h3 align="left">🌐  Socials</h3>
 
 <p align="left"> <a href="https://www.github.com/arelove" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@ar3love_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<h3 align="left">🔥  Badges</h3>
 
 <b>My GitHub Stats</b>
 
