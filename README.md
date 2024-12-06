@@ -107,8 +107,8 @@ src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-b
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ar3love"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+<p style="display: inline-block; margin-right: 0.25rem;">
+  <a href="https://www.ko-fi.com/ar3love">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
+  </a>
+</p>
