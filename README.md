@@ -1,7 +1,5 @@
 <div align="center">
-<td align="center" width="100%">
-      <img src="https://raw.githubusercontent.com/arelove/arelove/main/arelove_anim.svg" width="500" alt="ARELOVE ASCII"/>
-    </td>
+<img src="https://raw.githubusercontent.com/arelove/arelove/main/arelove_anim.svg" width="500" alt="ARELOVE ASCII"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Rust+%7C+Django;Building+things+that+matter+💜;Open+to+collaborations!)](https://git.io/typing-svg)
 
