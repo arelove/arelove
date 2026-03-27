@@ -1,98 +1,159 @@
-# Hi! 👋 I'm Valeri
+<div align="center">
+<td align="center" width="100%">
+      <img src="https://raw.githubusercontent.com/arelove/arelove/main/arelove_anim.svg" width="600" alt="ARELOVE ASCII"/>
+    </td>
 
-**Full-Stack Web Developer & Student**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Rust+%7C+Django;Building+things+that+matter+💜;Open+to+collaborations!)](https://git.io/typing-svg)
 
-### 💻 About Me
+<p>
+  <a href="https://github.com/arelove"><img src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" alt="GitHub Followers"/></a><a href="https://t.me/ar3love"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=1c1917&style=for-the-badge" alt="Telegram"/></a><a href="mailto:multidigger7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Gmail"/></a>
+</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=arelove.arelove&left_color=1c1917&right_color=ec4899&left_text=VIEWS" alt="Visitor Badge"/>
 
-I'm a full-stack developer and a student at Russian Technological University (MIREA) in Moscow. With a focus on frontend technologies like React, TypeScript, and JavaScript, I also enjoy backend development using Python, Rust, and frameworks such as Django and Flask. I transitioned into programming from another career, starting with HTML and CSS, and quickly fell in love with building dynamic, responsive applications that enhance user experiences.
+</div>
 
-Over the years, I've worked on various projects, from lightweight game launchers to secure password managers and DNS switchers. I'm passionate about experimenting with new tools, learning emerging technologies, and creating efficient, intuitive interfaces. Each project is a chance to grow, and I'm excited about contributing to open-source and tackling real-world challenges!
+---
 
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <h3>💻 About Me</h3>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=2&width=100%"/>
+      <br/>
+      <p>I'm a <strong>full-stack developer</strong> and student at <strong>MIREA</strong> in Moscow. I focus on frontend technologies like React, TypeScript, and JavaScript, while also building backends with Python, Rust, Django and Flask.</p>
+      <p>I transitioned into programming from another career — starting with HTML & CSS, and quickly fell in love with building dynamic, responsive apps. Every project is a chance to grow!</p>
+      <ul>
+        <li>🚀 Building cross-platform desktop apps with <strong>Tauri</strong></li>
+        <li>🔐 Passionate about <strong>security & encryption</strong></li>
+        <li>🤖 Experimenting with <strong>AI & voice assistants</strong></li>
+        <li>🌱 Always learning emerging technologies</li>
+      </ul>
+    </td>
+    
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-  <a href="https://github.com/arelove" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" alt="GitHub Followers" style="display: inline-block;"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arelove.arelove&left_color=black&right_color=pink&left_text=Profile%20Views" alt="Visitor Badge" style="display: inline-block;">
-  <a href="https://t.me/ar3love" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram" style="display: inline-block;"></a>
-  <a href="mailto:multidigger7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="display: inline-block;"></a>
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Other</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 🌟 Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Freedom-Launcher</h3>
+      <p>A <strong>lightweight game launcher</strong> with built-in torrent support and fully customizable UI. Designed for performance and flexibility.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/><img src="https://img.shields.io/badge/GUI-Desktop-ec4899?style=flat-square"/></p>
+      <p align="center"><a href="https://github.com/arelove/Freedom-Launcher">View on GitHub →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 x-pass</h3>
+      <p>Secure <strong>offline password manager</strong> with military-grade encryption. Your data, fully local, fully safe.</p>
+      <p align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Encryption-AES256-ec4899?style=flat-square"/></p>
+      <p align="center"><a href="https://github.com/arelove/x-pass">View on GitHub →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦀 wdk-safe</h3>
+      <p>Safe, idiomatic <strong>Rust abstractions for Windows kernel-mode driver development</strong>, built on top of <code>wdk-sys</code>. Encodes kernel invariants in Rust's type system to prevent BSODs at compile time.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/Windows%20Kernel-0078D6?style=flat-square&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/License-MIT%20%7C%20Apache--2.0-ec4899?style=flat-square"/></p>
+      <p align="center"><a href="https://github.com/arelove/wdk-safe">View on GitHub →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 dns-switcher</h3>
+      <p>Lightweight <strong>DNS switcher for Windows</strong> with a system tray integration. Switch between DNS providers instantly with a clean, modern interface.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></p>
+      <p align="center"><a href="https://github.com/arelove/dns-switcher">View on GitHub →</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=arelove&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arelove&langs_count=7&layout=compact&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" height="180" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arelove&theme=dark&background=1c1917&ring=ec4899&fire=a855f7&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ec4899&sideNums=a855f7&dates=888&hide_border=true" height="180" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake.svg"/>
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
+  </picture>
 </div>
 
 
-### 🛠️ Skills
+---
 
-I've organized my skills into categories for better clarity. Here's what I'm proficient in:
+## ☕ Support Me
 
-#### Frontend
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"></a><img width="12">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"></a><img width="12">
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"></a><img width="12">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"></a><img width="12">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"></a><img width="12">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"></a><img width="12">
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="40" alt="Svelte"></a><img width="12">
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"></a><img width="12">
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="Webpack"></a><img width="12">
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="Sass"></a><img width="12">
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap"></a><img width="12">
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" alt="Material UI"></a>
-</p>
-
-#### Backend & Databases
-<p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"></a><img width="12">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height="40" alt="Rust"></a><img width="12">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"></a><img width="12">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="Django"></a><img width="12">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask"></a><img width="12">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"></a>
-</p>
-
-#### Other Tools & Technologies
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git"></a><img width="12">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter"></a><img width="12">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch"></a><img width="12">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"></a><img width="12">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"></a>
-</p>
-
-### 🌟 Featured Projects
-
-Here are some of my notable repositories:
-
-- **[Freedom-Launcher](https://github.com/arelove/Freedom-Launcher)**: A lightweight game launcher with built-in torrent support and customizable UI (Python).
-
-- **[Tauri-v2-Template](https://github.com/arelove/Tauri-v2-Template)**: A cross-platform desktop app template using Tauri, React, TypeScript, and Material-UI.
-
-- **[x-pass](https://github.com/arelove/x-pass)**: Secure offline password manager with military-grade encryption (TypeScript).
-
-- **[dns-switcher](https://github.com/arelove/dns-switcher)**: Lightweight DNS switcher for Windows with system tray integration (Svelte).
-
-- **[Malinka-voice_assistant](https://github.com/arelove/Malinka-voice_assistant)**: A voice assistant project in Python.
-
-Check out my [full list of repositories](https://github.com/arelove?tab=repositories) for more!
-
-<h3 align="left">🌐 Socials</h3>
-<p align="left">
-  <a href="https://github.com/arelove" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"></picture></a><img width="12">
-  <a href="https://www.threads.net/@ar3love_" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads"></picture></a>
-</p>
-
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: flex-start;">
-  <a href="https://github.com/arelove">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=arelove&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" height="200" alt="arelove's GitHub stats" />
-  </a>
-  <a href="https://github.com/arelove">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arelove&langs_count=7&layout=compact&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" height="200" alt="Top Languages" />
-  </a>
-</div>
-
-### Support Me
-
-<p style="display: inline-block; margin-right: 0.25rem;">
+<div align="center">
   <a href="https://www.ko-fi.com/ar3love">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi"/>
   </a>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
