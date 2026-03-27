@@ -91,13 +91,13 @@
 ## 🌟 Featured Projects
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="height:220px">
       <h3 align="center">🚀 Freedom-Launcher</h3>
       <p>A <strong>lightweight game launcher</strong> with built-in torrent support and fully customizable UI. Designed for performance and flexibility.</p>
       <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/><img src="https://img.shields.io/badge/GUI-Desktop-ec4899?style=flat-square"/></p>
       <p align="center"><a href="https://github.com/arelove/Freedom-Launcher">View on GitHub →</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="height:220px">
       <h3 align="center">🔐 x-pass</h3>
       <p>Secure <strong>offline password manager</strong> with military-grade encryption. Your data, fully local, fully safe.</p>
       <p align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Encryption-AES256-ec4899?style=flat-square"/></p>
@@ -105,13 +105,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="height:220px">
       <h3 align="center">🦀 wdk-safe</h3>
       <p>Safe, idiomatic <strong>Rust abstractions for Windows kernel-mode driver development</strong>, built on top of <code>wdk-sys</code>. Encodes kernel invariants in Rust's type system to prevent BSODs at compile time.</p>
       <p align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/Windows%20Kernel-0078D6?style=flat-square&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/License-MIT%20%7C%20Apache--2.0-ec4899?style=flat-square"/></p>
       <p align="center"><a href="https://github.com/arelove/wdk-safe">View on GitHub →</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="height:220px">
       <h3 align="center">🌐 dns-switcher</h3>
       <p>Lightweight <strong>DNS switcher for Windows</strong> with a system tray integration. Switch between DNS providers instantly with a clean, modern interface.</p>
       <p align="center"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></p>
@@ -119,7 +119,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🔥 GitHub Stats
