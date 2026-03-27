@@ -127,12 +127,17 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=arelove&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arelove&langs_count=7&layout=compact&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" height="180" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arelove&theme=dark&background=1c1917&ring=ec4899&fire=a855f7&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ec4899&sideNums=a855f7&dates=888&hide_border=true" height="180" alt="GitHub Streak"/>
+<table><tr><td>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=arelove&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&rank_icon=github&card_width=320" height="175"/>
+</td><td>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arelove&langs_count=8&layout=compact&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&card_width=320" height="175"/>
+</td></tr></table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arelove&theme=dark&background=0d1117&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=666666&hide_border=true&card_width=660" height="175"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arelove&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=ec4899&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
 </div>
 
 ---
