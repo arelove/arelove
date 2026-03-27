@@ -1,6 +1,6 @@
 <div align="center">
 <td align="center" width="100%">
-      <img src="https://raw.githubusercontent.com/arelove/arelove/main/arelove_anim.svg" width="600" alt="ARELOVE ASCII"/>
+      <img src="https://raw.githubusercontent.com/arelove/arelove/main/arelove_anim.svg" width="500" alt="ARELOVE ASCII"/>
     </td>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Rust+%7C+Django;Building+things+that+matter+💜;Open+to+collaborations!)](https://git.io/typing-svg)
@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="58%">
+    <td valign="top" width="60%">
       <h3>💻 About Me</h3>
       <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=2&width=100%"/>
       <br/>
@@ -29,7 +29,9 @@
         <li>🌱 Always learning emerging technologies</li>
       </ul>
     </td>
-    
+    <td align="center" valign="middle" width="40%">
+      <img src="https://raw.githubusercontent.com/arelove/arelove/main/donut_fast.svg" width="100%"/>
+    </td>
   </tr>
 </table>
 
