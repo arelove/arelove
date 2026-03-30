@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/arelove/arelove/main/arelove_anim.svg" width="500" alt="ARELOVE ASCII"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Rust+%7C;Building+things+that+matter+💜;Open+to+collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Rust;Building+things+that+matter+💜;Open+to+collaborations!)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/arelove"><img src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" alt="GitHub Followers"/></a><a href="https://t.me/ar3love"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=1c1917&style=for-the-badge" alt="Telegram"/></a><a href="mailto:multidigger7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Gmail"/></a>
