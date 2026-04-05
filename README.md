@@ -16,7 +16,6 @@
   <tr>
     <td valign="top" width="60%">
       <h3>💻 About Me</h3>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=2&width=100%"/>
       <br/>
       <p>I'm a <strong>full-stack developer</strong> and student at <strong>MIREA</strong> in Moscow. I focus on frontend technologies like React, TypeScript, and JavaScript, while also building backends with Python, Rust, Django and Flask.</p>
       <p>I transitioned into programming from another career — starting with HTML & CSS, and quickly fell in love with building dynamic, responsive apps. Every project is a chance to grow!</p>
