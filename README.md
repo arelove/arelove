@@ -9,7 +9,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=arelove.arelove&left_color=1c1917&right_color=ec4899&left_text=VIEWS" alt="Visitor Badge"/>
 
 </div>
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <table>
   <tr>
@@ -35,7 +36,7 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -88,7 +89,7 @@
 </p>
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🌟 Featured Projects
 <table>
@@ -121,7 +122,8 @@
     </td>
   </tr>
 </table>
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🔥 GitHub Stats
 
@@ -139,7 +141,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -152,7 +154,7 @@
 </div>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## ☕ Support Me
 
