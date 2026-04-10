@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <img src="https://raw.githubusercontent.com/arelove/arelove/main/about_me_.svg" width="100%"/>
+      <img src="https://raw.githubusercontent.com/arelove/arelove/main/about__me.svg" width="100%"/>
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://raw.githubusercontent.com/arelove/arelove/main/donut_fast.svg" width="100%"/>
