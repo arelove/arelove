@@ -9,7 +9,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=arelove.arelove&left_color=1c1917&right_color=ec4899&left_text=VIEWS" alt="Visitor Badge"/>
 
 </div>
-
 ---
 
 <table>
@@ -28,7 +27,11 @@
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://raw.githubusercontent.com/arelove/arelove/main/donut_fast.svg" width="100%"/>
+      counting of visitors to this page in this section started from April 10, 2026
+      
+  ![](https://count.getloli.com/get/@arelove.github.readme)
     </td>
+    
   </tr>
 </table>
 
