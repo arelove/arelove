@@ -1,0 +1,70 @@
+<svg width="400" height="188" viewBox="0 0 400 188" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>About Me — interests</title>
+  <defs>
+    <linearGradient id="bG2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="barG2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="aurora3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.05"/>
+    </linearGradient>
+    <clipPath id="card-clip2">
+      <rect width="400" height="188" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect width="400" height="188" rx="12" fill="url(#bG2)"/>
+  <rect x="1.5" y="1.5" width="397" height="185" rx="11" fill="#0d1117"/>
+
+  <g clip-path="url(#card-clip2)">
+    <ellipse cx="370" cy="160" rx="90" ry="60" fill="url(#aurora3)">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; -20,-25; 15,-10; -5,20; 0,0"
+        dur="10s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+    </ellipse>
+    <ellipse cx="30" cy="30" rx="70" ry="50" fill="#ec4899" fill-opacity="0.04">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 20,15; -10,25; 0,0" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="370" cy="15" r="1.2" fill="#ec4899" fill-opacity="0.5">
+      <animate attributeName="cy" values="15;8;15" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="385" cy="35" r="1" fill="#a855f7" fill-opacity="0.4">
+      <animate attributeName="cy" values="35;26;35" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="20" cy="170" r="1.5" fill="#a855f7" fill-opacity="0.35">
+      <animate attributeName="cy" values="170;162;170" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="18" y="12" width="364" height="36" rx="6" fill="#ec489906"/>
+  <rect x="18" y="12" width="3" height="36" rx="1.5" fill="url(#barG2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </rect>
+  <text y="35" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" xml:space="preserve"><tspan x="30" fill="#999">Building cross-platform desktop apps with </tspan><tspan fill="#ec4899" font-weight="600">Tauri</tspan></text>
+
+  <rect x="18" y="54" width="364" height="36" rx="6" fill="#a855f706"/>
+  <rect x="18" y="54" width="3" height="36" rx="1.5" fill="url(#barG2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite" begin="0.75s"/>
+  </rect>
+  <text y="77" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" xml:space="preserve"><tspan x="30" fill="#999">Passionate about </tspan><tspan fill="#a855f7" font-weight="600">security &amp; encryption</tspan></text>
+
+  <rect x="18" y="96" width="364" height="36" rx="6" fill="#ec489906"/>
+  <rect x="18" y="96" width="3" height="36" rx="1.5" fill="url(#barG2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </rect>
+  <text y="119" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" xml:space="preserve"><tspan x="30" fill="#999">Experimenting with </tspan><tspan fill="#ec4899" font-weight="600">AI &amp; voice assistants</tspan></text>
+
+  <rect x="18" y="138" width="364" height="36" rx="6" fill="#a855f706"/>
+  <rect x="18" y="138" width="3" height="36" rx="1.5" fill="url(#barG2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite" begin="2.25s"/>
+  </rect>
+  <text y="161" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" xml:space="preserve"><tspan x="30" fill="#999">Always learning </tspan><tspan fill="#a855f7" font-weight="600">emerging technologies</tspan></text>
+</svg>

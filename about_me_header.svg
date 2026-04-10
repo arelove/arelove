@@ -1,0 +1,110 @@
+<svg width="400" height="180" viewBox="0 0 400 180" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>About Me — header card</title>
+  <defs>
+    <linearGradient id="bG1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="tG1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="dG1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#a855f7" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="aurora1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="aurora2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.04"/>
+    </linearGradient>
+    <clipPath id="card-clip">
+      <rect width="400" height="180" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect width="400" height="180" rx="12" fill="url(#bG1)"/>
+  <rect x="1.5" y="1.5" width="397" height="177" rx="11" fill="#0d1117"/>
+
+  <g clip-path="url(#card-clip)">
+    <ellipse cx="60" cy="40" rx="110" ry="70" fill="url(#aurora1)">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 30,20; -10,35; 20,-15; 0,0"
+        dur="9s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+      <animate attributeName="rx" values="110;130;95;120;110" dur="9s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+    </ellipse>
+    <ellipse cx="360" cy="145" rx="90" ry="60" fill="url(#aurora2)">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; -25,-15; 10,-30; -15,10; 0,0"
+        dur="11s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+      <animate attributeName="ry" values="60;80;50;70;60" dur="11s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+    </ellipse>
+    <ellipse cx="200" cy="90" rx="80" ry="40" fill="#a855f7" fill-opacity="0">
+      <animate attributeName="fill-opacity" values="0;0.04;0;0.03;0" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 40,10; -20,20; 0,0" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="320" cy="25" r="1.5" fill="#ec4899" fill-opacity="0.6">
+      <animate attributeName="cy" values="25;18;25" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="45" r="1" fill="#a855f7" fill-opacity="0.5">
+      <animate attributeName="cy" values="45;36;45" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.5;0.1;0.5" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="370" cy="20" r="1.2" fill="#ec4899" fill-opacity="0.4">
+      <animate attributeName="cy" values="20;30;20" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.4;0.8;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="30" cy="155" r="1" fill="#a855f7" fill-opacity="0.35">
+      <animate attributeName="cy" values="155;148;155" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.35;0.7;0.35" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="55" cy="165" r="1.5" fill="#ec4899" fill-opacity="0.3">
+      <animate attributeName="cy" values="165;155;165" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="18" y="16" width="30" height="30" rx="7" fill="#ec489918">
+    <animate attributeName="fill-opacity" values="0.094;0.18;0.094" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(33,31)">
+    <rect x="-9" y="-10" width="18" height="12" rx="2" fill="none" stroke="url(#tG1)" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-7" y="-8" width="14" height="8" rx="1" fill="#ec4899" fill-opacity="0.08">
+      <animate attributeName="fill-opacity" values="0.08;0.22;0.08" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#ec4899;#a855f7;#ec4899" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-4" y="-5" width="1.5" height="4" rx="0.5" fill="#ec4899">
+      <animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-11" y="2" width="22" height="3.5" rx="1" fill="none" stroke="url(#tG1)" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-11" y="2" width="5" height="3.5" fill="#a855f7" fill-opacity="0">
+      <animate attributeName="x" values="-11;11;-11" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0;0.25;0" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="56" y="30" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="700" fill="url(#tG1)">About Me</text>
+  <text x="56" y="44" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#4a4a5a">full-stack developer · MIREA, Moscow</text>
+
+  <rect x="18" y="57" width="364" height="0.75" fill="url(#dG1)"/>
+
+  <text y="76" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" xml:space="preserve"><tspan x="18" fill="#888">I'm a </tspan><tspan fill="#ec4899" font-weight="600">full-stack developer</tspan><tspan fill="#888"> and student at </tspan><tspan fill="#a855f7" font-weight="600">MIREA</tspan><tspan fill="#888"> in Moscow.</tspan></text>
+  <text y="93" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" xml:space="preserve"><tspan x="18" fill="#888">Focused on </tspan><tspan fill="#ec4899" font-weight="600">React, TypeScript &amp; JavaScript</tspan><tspan fill="#888">, building</tspan></text>
+  <text y="110" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" xml:space="preserve"><tspan x="18" fill="#888">backends with </tspan><tspan fill="#a855f7" font-weight="600">Python, Rust, Django</tspan><tspan fill="#888"> and </tspan><tspan fill="#a855f7" font-weight="600">Flask</tspan><tspan fill="#888">.</tspan></text>
+  <text y="130" font-family="'Segoe UI',system-ui,sans-serif" font-size="11"><tspan x="18" fill="#555">Transitioned from another career — started with HTML &amp; CSS, quickly fell</tspan></text>
+  <text y="145" font-family="'Segoe UI',system-ui,sans-serif" font-size="11"><tspan x="18" fill="#555">in love with building dynamic apps. Every project is a chance to grow!</tspan></text>
+</svg>
