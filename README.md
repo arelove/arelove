@@ -15,24 +15,15 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h3>💻 About Me</h3>
-      <br/>
-      <p>I'm a <strong>full-stack developer</strong> and student at <strong>MIREA</strong> in Moscow. I focus on frontend technologies like React, TypeScript, and JavaScript, while also building backends with Python, Rust, Django and Flask.</p>
-      <p>I transitioned into programming from another career — starting with HTML & CSS, and quickly fell in love with building dynamic, responsive apps. Every project is a chance to grow!</p>
-      <ul>
-        <li>🚀 Building cross-platform desktop apps with <strong>Tauri</strong></li>
-        <li>🔐 Passionate about <strong>security & encryption</strong></li>
-        <li>🤖 Experimenting with <strong>AI & voice assistants</strong></li>
-        <li>🌱 Always learning emerging technologies</li>
-      </ul>
+      <img src="https://raw.githubusercontent.com/arelove/arelove/main/about_me.svg" width="100%"/>
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://raw.githubusercontent.com/arelove/arelove/main/donut_fast.svg" width="100%"/>
-      counting of visitors to this page in this section started from April 10, 2026
-      
-  ![](https://count.getloli.com/get/@arelove.github.readme)
+      <br/>
+      <sub>counting of visitors started from April 10, 2026</sub>
+      <br/><br/>
+      <img src="https://count.getloli.com/get/@arelove.github.readme"/>
     </td>
-    
   </tr>
 </table>
 
