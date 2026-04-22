@@ -6,7 +6,9 @@
 <p>
   <a href="https://github.com/arelove"><img src="https://img.shields.io/github/followers/arelove?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" alt="GitHub Followers"/></a><a href="https://t.me/ar3love"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=1c1917&style=for-the-badge" alt="Telegram"/></a><a href="mailto:multidigger7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Gmail"/></a>
 </p>
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=arelove.arelove&left_color=1c1917&right_color=ec4899&left_text=VIEWS" alt="Visitor Badge"/>
+<a href="https://github.com/arelove/stargazers"><img src="https://img.shields.io/github/stars/arelove.svg?logo=github"></a>
 
 </div>
 
